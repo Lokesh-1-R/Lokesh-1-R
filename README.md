@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [profile](https://github.com/Lokesh-1-R?tab=repositories)
 
-- 📫 How to reach me [gmail](lokeshreddu123@gmail.com)
+- 📫 How to reach me **lokeshreddu123@gmail.com**,**lokeshreddy6383@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19M2YYNZMqJmApL8PwvOoJSF6ifiCuJIL/view?usp=sharing)
 
